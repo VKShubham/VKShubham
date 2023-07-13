@@ -4,7 +4,7 @@
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VKShubham&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham Vanani" /> </p>
 
-<p align="left"> <a href="https://twitter.com/PrinceBeladiya7" target="blank"><img src="https://img.shields.io/twitter/follow/Shubham Vanani7?logo=twitter&style=for-the-badge" alt="PrinceBeladiya7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ShubhamVanani" target="blank"><img src="https://img.shields.io/twitter/follow/Shubham Vanani?logo=twitter&style=for-the-badge" alt="PrinceBeladiya7" /></a> </p>
 
 - 🔭 I’m currently working on **Andriod, Kotlin, AI**
 
@@ -12,8 +12,7 @@
 
 - 💬 Ask me about **Andriod Development**
 
-- 📫 How to reach me: princebeladiya007@gmail.com
-
+- 📫 How to reach me: shubhamvanani@gmail.com
 <hr>
 
 <h3 align="left">Connect with me:</h3>
