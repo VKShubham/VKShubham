@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/ShubhamVanani" target="blank"><img src="https://img.shields.io/twitter/follow/Shubham Vanani?logo=twitter&style=for-the-badge" alt="PrinceBeladiya7" /></a> </p>
 
-- 🔭 I’m currently working on **Andriod, Kotlin, AI**
+- 🔭 I’m currently working on **Andriod, Flutter, DSA**
 
 - 🌱 I’m currently learning **Andriod**
 
-- 💬 Ask me about **Andriod Development**
+- 💬 Ask me about **Flutter Development**
 
 - 📫 How to reach me: shubhamvanani@gmail.com
 <hr>
